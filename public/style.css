@@ -1,0 +1,25 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+.input-group-button {
+    margin: 0px 10px;
+}
+.form-control {
+    margin: 0px 10px;
+}
+weather-table {
+    margin: 0px 10px;
+}
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
