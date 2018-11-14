@@ -4,13 +4,13 @@ td, th {
 }
 
 .input-group {
-    margin: 20px 0px;
+    margin: 20px 0;
 }
 .input-group-button {
-    margin: 0px 10px;
+    margin: 0 10px;
 }
 .form-control {
-    margin: 0px 10px;
+    margin: 0 10px;
 }
 svg {
     height: 150px;
