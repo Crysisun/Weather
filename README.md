@@ -15,6 +15,7 @@ npm start
 ```
 * Open the client at http://localhost:3000/
 * The web app will show up, you can type in the city name you want, after clicking on search button, you will get the forecast graphs on the specific city of their temperature, humidity and air pressure for the next five days.
+
 ![weather pic](./weather.png)
 ## Built with
 * [React](https://reactjs.org/)
